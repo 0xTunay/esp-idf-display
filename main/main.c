@@ -1,9 +1,10 @@
+#include <stdlib.h>
+#include <time.h>
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 #include "u8g2_esp32_hal.h"
 #include <u8g2.h>
-#include <stdlib.h>
-#include <time.h>
+
 
 #define WIDTH 128
 #define HEIGHT 64

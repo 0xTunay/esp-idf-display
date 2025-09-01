@@ -41,4 +41,4 @@ idf.py flash
 
 ## Preview
 
-![Animation](1.gif)
+![Animation](2.gif)

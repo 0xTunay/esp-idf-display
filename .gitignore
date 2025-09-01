@@ -1,5 +1,5 @@
 /.cache
-/.vscode
+.vscode
 /build
 .idea
 /cmake-build-debug
